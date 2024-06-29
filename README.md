@@ -3,7 +3,6 @@
 ![image](https://github.com/Master-lay/geoserver-/assets/93979048/c2c11af2-4922-4d14-bdfd-b4726d2c9436)
 
 ![image](https://github.com/Master-lay/geoserver-/assets/93979048/b0bb30f7-e170-49c3-aaad-69299d4473a0)
-![1719651063870](https://github.com/Master-lay/geoserver-/assets/93979048/873db520-d192-4cf6-921d-18368f3ffbcb)
 
 
 注意事项：
