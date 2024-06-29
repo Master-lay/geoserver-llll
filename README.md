@@ -6,9 +6,14 @@
 
 
 注意事项：
-1。请遵守网络安全法，请勿滥用
+1.请遵守网络安全法，请勿滥用
+
 2.注意目录
+
 3.linux与win打法不同
-4.深入利用参考:
+
+4.免配置环境已上传，更希望一起讨论学习
+
+5.深入利用参考:
 https://xz.aliyun.com/t/11821?time__1311=mqmx0DBD9Aqiq7KDsKoYK0%3DFdAK%2Bwq4wiTD&alichlgref=https%3A%2F%2Fcn.bing.com%2F
 https://xz.aliyun.com/t/14830?time__1311=mqmxyD0D2im4BDBqPaKY7KRqWq5x7qRwD
